@@ -1,8 +1,0 @@
-apiVersion: v1
-data:
-  eyJhdXRocyI6eyJodHRwczovL2luZGV4LmRvY2tlci5pby92MS8iOnsidXNlcm5hbWUiOiJqZ2FsdmluOTgiLCJwYXNzd29yZCI6IkNoYXJsaWUuRG9nOTkwMSEiLCJlbWFpbCI6ImdqYXlAdm13YXJlLmNvbSIsImF1dGgiOiJhbWRoYkhacGJqazRPa05vWVhKc2FXVXVSRzluT1Rrd01TRT0ifX19
-kind: Secret
-metadata:
-  name: regcred
-  namespace: cribl
-type: kubernetes.io/dockerconfigjson
