@@ -3,9 +3,6 @@ data:
   .dockerconfigjson: eyJhdXRocyI6eyJodHRwczovL2luZGV4LmRvY2tlci5pby92MS8iOnsidXNlcm5hbWUiOiJqZ2FsdmluOTgiLCJwYXNzd29yZCI6IkNoYXJsaWUuRG9nOTkwMSEiLCJlbWFpbCI6ImdqYXlAdm13YXJlLmNvbSIsImF1dGgiOiJhbWRoYkhacGJqazRPa05vWVhKc2FXVXVSRzluT1Rrd01TRT0ifX19
 kind: Secret
 metadata:
-  creationTimestamp: "2023-12-05T03:23:12Z"
   name: regcred
   namespace: cribl
-  resourceVersion: "24780"
-  uid: 1f14f5b4-ff72-421b-88e7-638125262e95
 type: kubernetes.io/dockerconfigjson
